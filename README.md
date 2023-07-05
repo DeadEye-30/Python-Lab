@@ -1,2 +1,2 @@
 # Python-Lab
- Just a place to practice my slowly increasing python skills.
+ A calm place to study python and try to use it's megic.
